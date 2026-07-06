@@ -27,12 +27,23 @@ The objective of this project is to explore deep learning-based object detection
 ## Sample Detection Results
 
 Results include detection of:
-- Person
-- Dog
-- Bicycle
-- Horse
-- Bird
-- Car
+## Sample Detection Results
+
+### Bird Detection
+
+![Detection](screenshots/Bird_detection.png)
+
+### Girrafe and Zebra Detection
+
+![Detection](screenshots/Girrafe_Zebra_detection.png)
+
+### Person, Dog and Horse Detection
+
+![Detection](screenshots/Person_Dog_Horse_detection.png)
+
+### Crowd Person Detection
+
+![Detection](screenshots/Person_detection.png)
 
 ## Skills Demonstrated
 
@@ -42,6 +53,25 @@ Results include detection of:
 - Model Inference
 - Python Programming
 - OpenCV
+
+## Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Deep Learning Fundamentals
+- Object Detection using YOLO
+- Computer Vision Applications
+- Model Inference and Evaluation
+- OpenCV Image Processing
+- Google Colab Environment
+- Darknet Framework
+
+## Future Improvements
+
+- Train YOLO on custom datasets
+- Real-time webcam detection
+- Performance comparison with YOLOv8
+- Edge deployment on embedded devices
 
 ## Author
 
