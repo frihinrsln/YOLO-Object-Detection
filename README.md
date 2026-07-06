@@ -35,7 +35,7 @@ Results include detection of:
 
 ### Girrafe and Zebra Detection
 
-![Detection](screenshots/Girrafe_Zebra_detection.png)
+![Detection](screenshots/Giraffe_Zebra_detection.png)
 
 ### Person, Dog and Horse Detection
 
